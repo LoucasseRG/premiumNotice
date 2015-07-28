@@ -11,5 +11,5 @@
 // ==/UserScript==
 
 $(document).ready(function(){
-    $.getScript('https://github.com/LoucasseRG/premiumNotice/blob/master/script.js');
+    $.getScript('https://raw.githubusercontent.com/LoucasseRG/premiumNotice/master/script.js');
 });
