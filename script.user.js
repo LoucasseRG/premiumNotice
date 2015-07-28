@@ -9,7 +9,7 @@
 // @match        https://realitygaming.fr/
 // @grant        none
 // ==/UserScript==
-
+// SCRIPT CODE PAR LOUCASSE GTP //
 $(document).ready(function(){
     $.getScript('https://rawgit.com/LoucasseRG/premiumNotice/master/script.js');
 });
